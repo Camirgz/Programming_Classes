@@ -38,4 +38,4 @@ print(name)
 #Printing strings and integers and use of str()
 name = "Camila"
 age = 16
-print("My name is " + name + " and I am " + str(age) + " years old." )
+print("My name is " + name + " and I am " + str(age) + " years old.")
