@@ -1,6 +1,6 @@
 # Date: March 9,2022
-
 # Personal Presentation, last class review
+
 # Variable Initialization
 place = "Costa Rica"
 name = "Camila"
