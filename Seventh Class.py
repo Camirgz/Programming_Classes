@@ -40,8 +40,6 @@ else:
     print(str(x) + " equals " + str(y))
 
 #Notes
-"""
-Formula for comparatives cycles:
-function + condition + :
-Indentation levels are important
-"""
+#Formula for comparatives cycles:
+#function + condition + :
+#Indentation levels are important
